@@ -29,7 +29,7 @@ Requirements
 The war file can be reached at `/assets/java-chef-test.war`
 The test page for the WAR file should be:
 
-http://<host>:8080/java-artifact-chef-test/chef/ping
+http://<host>:8080/java-chef-test/chef/ping
 
 Tests should show that this page is reachable and is specific to the content the test page sends back.
 
