@@ -51,7 +51,7 @@ You should work **inside that folder**.
 1. The recruiter will give you read permission to a repository named **devops-challenge**, at https://github.com/moip/devops-challenge.git
 1. You must fork this repository into a private repository on your own account and push your code in the config management
 branch you've picked.
-1. Once finished, you must give the user **ac-recruitment** read permission on your repository so that you can be evaluated. Then, please contact back your recruiter and he will get an engineer to evaluate your test.
+1. Once finished, you must give the user **moip-recruitment** read permission on your repository so that you can be evaluated. Then, please contact back your recruiter and he will get an engineer to evaluate your test.
 1. After you are evaluated, the recruiter will remove your read permission from the original repository.
 
 ## Format
