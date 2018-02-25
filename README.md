@@ -3,6 +3,13 @@
 ## Pre requisites
 You must have docker and chefdk installed on your system.
 
+## Install dependencies
+Execute: 
+
+```bash
+berks install
+```
+
 ## Run unit tests
 Execute: 
 
