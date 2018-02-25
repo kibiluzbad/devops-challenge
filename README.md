@@ -19,7 +19,7 @@ kitchen list
 
 You'll see default-centos-7 not created
 
-Create cetos instance running:
+Create centos instance by running:
 
 ```bash
 kitchen create
@@ -35,13 +35,13 @@ kitchen converge
 
 It may take some time since this recipe will download stuff from internet. If you have any connection issues check your firewall.
 
-After that we can check if cento instances is correcly set by running:
+After that we can check if centos instance is correctly set by running:
 
 ```bash
 kitchen verify
 ```
 
-If every thing is OK you should get following message:
+If everything is OK you should get the following message:
 
 ```bash
 Test Summary: 3 successful, 0 failures, 0 skipped
