@@ -9,7 +9,7 @@ describe port(8080) do
   it { should be_listening }
 end
 
-describe http('http://localhost:8080/java-chef-test/chef/ping') do
+describe http("http://localhost:8080/java-chef-test/chef/ping", enable_remote_worker: true) do
   its('status') { should eq 200 }
   its('body') { should eq 'Hello Chef deployed war' }
 end
